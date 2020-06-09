@@ -8,4 +8,5 @@
     
     1. use of airbnb like eslinting in the entire project.
     2. A periodic deletion of the metrics which are over an hour old.
+    3. Add swagger.
 
