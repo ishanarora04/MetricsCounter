@@ -1,3 +1,5 @@
+"use strict"
+
 const Joi = require("joi");
 const Response = require("../../lib/responses");
 class MetricsValidator {

@@ -1,3 +1,5 @@
+"use strict"
+
 const moment = require("moment");
 const Constants = require("../../lib/constants");
 class MetricsService {
